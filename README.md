@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifurRahmanBijoy&theme=react&include_all_commits=true&count_private=true&layout=compact&hide_border=true)<br/><br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaifurRahmanBijoy&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SaifurRahmanBijoy&theme=swift&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
