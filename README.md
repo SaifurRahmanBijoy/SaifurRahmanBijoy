@@ -20,5 +20,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=SaifurRahmanBijoy&theme=swift&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Dev Quote
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saifurrahmanbijoy&label=Profile%20views&color=2&style=flat" alt="saifurrahmanbijoy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saifurrahmanbijoy&label=Profile%20views&color=0e75b2&style=compact" alt="saifurrahmanbijoy" /> </p>
 </div>
