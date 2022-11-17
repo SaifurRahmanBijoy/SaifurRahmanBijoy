@@ -1,10 +1,20 @@
 ![Header](https://user-images.githubusercontent.com/106840193/201967065-c3ad9cfe-9c30-4046-a1b3-d65ad47271ab.png)
+ 
 
-<!--    -->
-# 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/B1JOY) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bi_j_oy) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saifur-rahman-2a8bb0240) 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://facebook.com/B1JOY">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    <a href="https://instagram.com/bi_j_oy">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://linkedin.com/in/saifur-rahman-2a8bb0240">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
 
 <div align="center">
 
