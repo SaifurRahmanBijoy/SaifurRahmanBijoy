@@ -20,11 +20,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=SaifurRahmanBijoy&theme=swift&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-<!-- 
-### 😂 Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
-<br/><br/>
-
-[![](https://visitcount.itsvg.in/api?id=SaifurRahmanBijoy&icon=6&color=1)](https://visitcount.itsvg.in)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saifurrahmanbijoy&label=Profile%20views&color=2&style=flat" alt="saifurrahmanbijoy" /> </p>
 </div>
