@@ -6,6 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bi_j_oy) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saifur-rahman-2a8bb0240) 
 
+[![](https://visitcount.itsvg.in/api?id=SaifurRahmanBijoy&icon=6&color=1)](https://visitcount.itsvg.in)
+
 <div align="center">
 
 # 💻 Tech Stack:
@@ -26,5 +28,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SaifurRahmanBijoy&icon=6&color=1)](https://visitcount.itsvg.in)
 </div>
